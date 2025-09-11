@@ -1,44 +1,34 @@
-<!-- COVER IMAGE -->
-<p align="center">
-  <img src="https://github.com/muhammadkhan-dev-code/muhammadkhan-dev-code/blob/main/coverimage.png" alt="cover" width="100%" />
-</p>
-
 <!-- HEADER -->
 <h1 align="center">Hey there 👋, I'm Muhammad Khan</h1>
 <h3 align="center">💻 MERN Stack Developer | 🚀 Full-Stack Explorer | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+MERN+Stack+Developer;Full-Stack+Web+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:700&pause=1000&color=E8651A&center=true&vCenter=true&width=600&lines=Passionate+MERN+Stack+Developer;Full-Stack+Web+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG (Bold)" />
 </p>
+
 
 ---
 
 ## 🚀 About Me  
-<p align="left">
-  <img src="https://github.com/muhammadkhan-dev-code/muhammadkhan-dev-code/blob/main/myimage.jpg" alt="Muhammad Khan" width="180" align="left" style="border-radius:15px; margin-right:20px;" />
-</p>
-
-1. 🔭 Currently building **[NJV Alumni Council](https://github.com/muhammadkhan-dev-code/njv_alumni_council)**  
-2. 🌱 Diving deep into **Node.js, Express.js & Backend Development**  
-3. 👨‍💻 All my projects are here → **[Portfolio Website](https://portfolio-repo-nine-omega.vercel.app/)**  
-4. 💬 Ask me about **React, JavaScript, Databases, and Problem Solving**  
-5. 📫 Reach me at **muhammadkhansw00@gmail.com**  
-6. ⚡ Fun fact: I love solving coding challenges on **LeetCode**  
-
-<br clear="left"/>
+1️⃣ 🔭 Currently building **[NJV Alumni Council](https://github.com/muhammadkhan-dev-code/njv_alumni_council)**  
+2️⃣ 🌱 Diving deep into **Node.js, Express.js & Backend Development**  
+3️⃣ 👨‍💻 All my projects are here → **[Portfolio Website](https://portfolio-repo-nine-omega.vercel.app/)**  
+4️⃣ 💬 Ask me about **React, JavaScript, Databases, and Problem Solving**  
+5️⃣ 📫 Reach me at **muhammadkhansw00@gmail.com**  
+6️⃣ ⚡ Fun fact: I love solving coding challenges on **LeetCode**  
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-khan-9b907b260" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/muhammadkhansw00" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23F89F1B.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:muhammadkhansw00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -46,15 +36,15 @@
 
 ## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,java,cpp,html,css,tailwind,git,mysql,postman,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,java,cpp,html,css,tailwind,git,mysql,postman,flutter&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadkhan-dev-code&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkhan-dev-code&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadkhan-dev-code&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkhan-dev-code&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
