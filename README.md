@@ -1,3 +1,8 @@
+<!-- COVER IMAGE -->
+<p align="center">
+  <img src="https://github.com/muhammadkhan-dev-code/muhammadkhan-dev-code/blob/main/coverimage.png" alt="cover" width="100%" />
+</p>
+
 <!-- HEADER -->
 <h1 align="center">Hey there 👋, I'm Muhammad Khan</h1>
 <h3 align="center">💻 MERN Stack Developer | 🚀 Full-Stack Explorer | 🧠 Lifelong Learner</h3>
@@ -9,12 +14,18 @@
 ---
 
 ## 🚀 About Me  
+<p align="left">
+  <img src="https://github.com/muhammadkhan-dev-code/muhammadkhan-dev-code/blob/main/myimage.jpg" alt="Muhammad Khan" width="180" align="left" style="border-radius:15px; margin-right:20px;" />
+</p>
+
 1. 🔭 Currently building **[NJV Alumni Council](https://github.com/muhammadkhan-dev-code/njv_alumni_council)**  
 2. 🌱 Diving deep into **Node.js, Express.js & Backend Development**  
 3. 👨‍💻 All my projects are here → **[Portfolio Website](https://portfolio-repo-nine-omega.vercel.app/)**  
 4. 💬 Ask me about **React, JavaScript, Databases, and Problem Solving**  
 5. 📫 Reach me at **muhammadkhansw00@gmail.com**  
 6. ⚡ Fun fact: I love solving coding challenges on **LeetCode**  
+
+<br clear="left"/>
 
 ---
 
