@@ -1,9 +1,11 @@
 <!-- HEADER -->
-<h1 align="center">Hey there 👋, I'm Muhammad Khan</h1>
+<h1 align="center">Hey there 👋, I'm Muhammad Khan (@muhammadkhan-dev-code)</h1>
 <h3 align="center">💻 MERN Stack Developer | 🚀 Full-Stack Explorer | 🧩 Problem Solver | 🌟 Innovator</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:700&pause=1000&color=E8651A&center=true&vCenter=true&width=600&lines=Passionate+MERN+Stack+Developer;Full-Stack+Web+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG (Bold)" />
 </p>
+
 ---
 
 ## 🚀 About Me  
@@ -26,6 +28,12 @@
   </a>
   <a href="mailto:muhammadkhansw00@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mujahidhussain1225" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/mujahidhussainrizvi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
