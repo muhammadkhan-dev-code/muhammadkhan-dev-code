@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hey there 👋, I'm Muhammad Khan (@muhammadkhan-dev-code)</h1>
+<h1 align="center"> Hello 👋, I'm Muhammad Khan </h1>
 <h3 align="center">💻 MERN Stack Developer | 🚀 Full-Stack Explorer | 🧩 Problem Solver | 🌟 Innovator</h3>
 
 <p align="center">
