@@ -1,12 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">Hey there 👋, I'm Muhammad Khan</h1>
-<h3 align="center">💻 MERN Stack Developer | 🚀 Full-Stack Explorer | 🧠 Lifelong Learner</h3>
-
+<h3 align="center">💻 MERN Stack Developer | 🚀 Full-Stack Explorer | 🧩 Problem Solver | 🌟 Innovator</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:700&pause=1000&color=E8651A&center=true&vCenter=true&width=600&lines=Passionate+MERN+Stack+Developer;Full-Stack+Web+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG (Bold)" />
 </p>
-
-
 ---
 
 ## 🚀 About Me  
