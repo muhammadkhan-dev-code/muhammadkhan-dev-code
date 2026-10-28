@@ -34,37 +34,36 @@ AI Engineer in the Making • Software Engineering Student • Ex-MERN Stack Dev
 
 # 🚀 About Me
 
-* 🎓 Software Engineering Student at **Mehran University of Engineering & Technology (MUET)**
+- 🎓 Software Engineering Student at **Mehran University of Engineering & Technology (MUET)**
 
-* 🤖 Currently transitioning into **AI Engineering**
+- 🤖 Currently transitioning into **AI Engineering**
 
-* 🐍 Learning **Python, Machine Learning & Data Analysis**
+- 🐍 Learning **Python, Machine Learning & Data Analysis**
 
-* 💻 Former **MERN Stack Developer**
+- 💻 Former **MERN Stack Developer**
 
-* 🚀 Building intelligent real-world applications
+- 🚀 Building intelligent real-world applications
 
-* 🧠 Interested in **Artificial Intelligence, Machine Learning & Software Engineering**
+- 🧠 Interested in **Artificial Intelligence, Machine Learning & Software Engineering**
 
-* 💬 Ask me about
+- 💬 Ask me about
+  - Python
+  - Machine Learning
+  - React
+  - JavaScript
+  - MongoDB
+  - SQL
+  - Problem Solving
 
-  * Python
-  * Machine Learning
-  * React
-  * JavaScript
-  * MongoDB
-  * SQL
-  * Problem Solving
-
-* 🌐 Portfolio
+- 🌐 Portfolio
 
   **https://personal-portfolio-wheat-six-3x3f2zycm6.vercel.app/**
 
-* 📧 Email
+- 📧 Email
 
   **[muhammadkhansw00@gmail.com](mailto:muhammadkhansw00@gmail.com)**
 
-* ⚡ Fun Fact
+- ⚡ Fun Fact
 
   I enjoy solving coding challenges on **LeetCode**.
 
@@ -156,32 +155,14 @@ AI Engineer in the Making • Software Engineering Student • Ex-MERN Stack Dev
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadkhan-dev-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
-
-</p>
-
 ---
 
-# 📈 Contribution Graph
+## 🧩 LeetCode Stats
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadkhan-dev-code&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Khan's%20Contribution%20Graph" width="95%" alt="GitHub Contribution Graph"/>
-
-</p>
-
----
-
-# ⚡ GitHub Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadkhan-dev-code&theme=tokyonight" width="95%" alt="GitHub Profile Summary"/>
-
+  <a href="https://leetcode.com/u/muhammadkhan-dev-code/">
+    <img src="https://leetcard.jacoblin.cool/muhammadkhan-dev-code?theme=dark&font=Ubuntu&ext=heatmap" width="600" alt="Muhammad Khan's LeetCode Stats and Contribution Heatmap" />
+  </a>
 </p>
 
 ---
